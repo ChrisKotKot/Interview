@@ -19,7 +19,6 @@ Napisanie funkcji (lub metody klasy), która jako argumenty dostaje czas i datę
 1. Zadanie powinno być zrealizowane w języku Python 3 z wykorzystaniem jedynie podstawowych pakietów języka Python (np. datetime) bez wykorzystywania dodatkowych zewnętrznych bibliotek.
 1. Jeżeli do wykonania zadania kandydat musiał nauczyć się podstaw języka Python, to czas nauki / czytania nie powinien być brany pod uwagę przy podawaniu informacji o czasie wykonania zadania.
 1. Podczas realizacji będziemy patrzeć na sposób komunikacji, podejście do rozwiązania, projekt, organizację kodu oraz łatwość sprawdzenia poprawności rozwiązania zadania.
-1. W razie pytań lub wątpliwości należy pisać na adres jan@websensa.com
 
 # Sposób realizacji
 
