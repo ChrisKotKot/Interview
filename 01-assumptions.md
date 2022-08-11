@@ -1,4 +1,4 @@
-##Imię i nazwisko: Krzysztof Kotarski
+##Imię i nazwisko: Krzysztof -
 
 Zakres zadania: 
 1. Pobranie daty zdarzenia w formacie yyyy,m,d,H,M od użytkownika. 
